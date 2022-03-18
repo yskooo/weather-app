@@ -235,6 +235,12 @@ header i {
     font-size: 2.37em
 }
 
+footer a {
+    display: flex;
+    place-content: center;
+    text-decoration: none;
+    color: #333;
+}
 @media(max-width:500px) {
     body {
         padding: 0 10px;
