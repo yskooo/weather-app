@@ -239,7 +239,7 @@ footer a {
     display: flex;
     place-content: center;
     text-decoration: none;
-    color: #333;
+    color: #43affc;
 }
 @media(max-width:500px) {
     body {
